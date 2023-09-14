@@ -1,0 +1,1 @@
+# # This notebook shows how to use the UberGraph to get all HP terms that are a subclass of dental abnormality and then use the Monarch KG to get all disease to phenotype associations that are a subclass of dental abnormality.
